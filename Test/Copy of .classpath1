@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Framework"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Base"/>
+	<classpathentry kind="src" path="Core/CSharp"/>
+	<classpathentry kind="src" path="Shared"/>
+	<classpathentry kind="src" path="BCL"/>
+	<classpathentry kind="var" path="JRE_LIB"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
